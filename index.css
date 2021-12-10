@@ -618,6 +618,14 @@ iframe {
       color:powderblue;
       width: 150 px;
     }
+    #iConos i{
+      display: flex;
+      flex-direction: row;
+      margin: 0 auto;
+      padding: 70px;
+      color: #1273ac;
+      font-size: 30px;
+    }
   }
 /*................................................................*/
   @media (max-width:900px) {
@@ -753,7 +761,6 @@ iframe {
         background-color: rgb(97, 93, 93);
     }
 
-  
     iframe {
       display: flex;
       margin: 0 auto;
@@ -761,5 +768,13 @@ iframe {
       text-align: center;
       width: 300px; 
       height: 200px
+    }
+    #iConos i{
+      display: flex;
+      flex-direction: row;
+      margin: 0 auto;
+      padding: 70px;
+      color: #1273ac;
+      font-size: 30px;
     }
   }
