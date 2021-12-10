@@ -453,6 +453,16 @@ iframe {
   background-color: pink;
 }
 
+#iConos i{
+  margin: 0 auto;
+  padding: 70px;
+  color: #1273ac;
+  font-size: 50px;
+}
+
+#elFooter p {
+  color:aliceblue;
+}
 /*............................................................*/
 
 /* MEDIA QUERIES */
