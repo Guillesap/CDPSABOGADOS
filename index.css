@@ -15,13 +15,13 @@ body {
 
 /*nav bar*/
 #menu {
-  background-color: rgb(51, 51, 53);
+  background-color: rgb(59, 59, 226);
 }
 
 #menu a {
   font-size: 20px;
   font-weight: bold;
-  color: rgb(17, 3, 3);
+  color: rgb(59, 59, 226);
   padding: 0.5cm; 
 }
 
@@ -462,6 +462,7 @@ iframe {
     font-size: 10px;
     font-weight: bold;
     color: rgb(17, 3, 3); 
+    background-color: rgb(59, 59, 226);
 }
 
 #menu ul li a {
@@ -474,7 +475,7 @@ iframe {
     text-transform: uppercase;
     border: solid;
     border-color:rgb(228, 228, 225);
-    background-color: rgb(44, 43, 43);
+    background-color: rgb(59, 59, 226);
 }
 
 #menu ul li a:hover {
