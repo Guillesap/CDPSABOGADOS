@@ -454,10 +454,11 @@ iframe {
 }
 
 #iConos i{
+  display: inline-block;
   margin: 0 auto;
-  padding: 70px;
-  color: #1273ac;
-  font-size: 50px;
+  padding: 10px;
+  color:blue;
+  font-size: 30px;
 }
 
 #elFooter p {
@@ -769,12 +770,13 @@ iframe {
       width: 300px; 
       height: 200px
     }
+
+      
     #iConos i{
-      display: flex;
-      flex-direction: row;
+      display: inline-block;
       margin: 0 auto;
-      padding: 70px;
-      color: #1273ac;
+      padding: 10px;
+      color:blue;
       font-size: 30px;
     }
   }
